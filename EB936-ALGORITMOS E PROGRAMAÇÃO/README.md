@@ -1,0 +1,2 @@
+## *EB936 - ALGORITMOS E PROGRAMAÇÃO*
+#### Este repositório é voltado a comunicação da turma para disponibilizar os algorítimos utilizados durante a disciplinas e poder além disso tirar dúvidas através de issues ou até mesmo a possibilidade de ajudar nos códigos que serão desenvolvidos durante a disciplina.
