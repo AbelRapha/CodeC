@@ -35,7 +35,7 @@ struct DadosPesos pessoa;
 
   pessoa.peso_ideal = pessoa.altura_ao_quadrado*pessoa.IMC_ideal;
 
-  printf("%s Sua faixa de peso é: abaixo do peso: %.1f peso ideal: %.1f",pessoa.nome,pessoa.abaixo_do_peso,pessoa.peso_ideal);
+  printf("%s Sua faixa de peso é:\n abaixo do peso: %.1f kg \n peso ideal: %.1f kg",pessoa.nome,pessoa.abaixo_do_peso,pessoa.peso_ideal);
   
   return 0;
 }
